@@ -10,8 +10,12 @@ The Breweries server is a GraphQL Apollo Server written in TypeScript that queri
 For more information, visit https://www.openbrewerydb.org/
 
 ## Installation
-To get started, execute the following command on your terminal:
+To get install, execute the following command on your terminal:
 <code>npm install</code>
+
+## Get Started
+To get started, execute the following command on your terminal:
+<code>npm run dev</code>
 
 ## Structure
 You can find the main files in the src folders:<br/>
